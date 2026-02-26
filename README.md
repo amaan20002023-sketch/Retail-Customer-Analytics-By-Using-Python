@@ -1,5 +1,5 @@
 # Retail-Customer-Analytics-By-Using-Python
-# Retail Customer Analytics | End-to-End Case Study
+# Retail Customer Analytics | 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
