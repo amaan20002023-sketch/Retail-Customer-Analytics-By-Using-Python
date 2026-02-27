@@ -7,6 +7,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
+https://github.com/amaan20002023-sketch/Retail-Customer-Analytics-By-Using-Python
+
 **Complete Retail Customer 360° Analysis** — Merging, cleaning, EDA, and business insights on 3 years of transactional data for a large retail chain.
 
 Built as part of **AnalytixLabs Case Study 1 - Customer Analysis for Retail**.
